@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whack-the-marmot", "whack-the-marmot.csproj", "{2E19D54F-E5BD-1943-AA11-870281CD6383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whack-the-marmot.Editor", "whack-the-marmot.Editor.csproj", "{AF70D4E7-130A-1016-4C46-F4333A6E587B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E19D54F-E5BD-1943-AA11-870281CD6383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E19D54F-E5BD-1943-AA11-870281CD6383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E19D54F-E5BD-1943-AA11-870281CD6383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E19D54F-E5BD-1943-AA11-870281CD6383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF70D4E7-130A-1016-4C46-F4333A6E587B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF70D4E7-130A-1016-4C46-F4333A6E587B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF70D4E7-130A-1016-4C46-F4333A6E587B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF70D4E7-130A-1016-4C46-F4333A6E587B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
