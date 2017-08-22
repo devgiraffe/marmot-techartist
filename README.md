@@ -1,4 +1,4 @@
-# TWhack the Marmot - Tech Artist Test
+# Whack the Marmot - Tech Artist Test
 
 This project contains all the working mechanics of a Whack The Mole style game with no assets implemented.
 
@@ -9,6 +9,7 @@ This project contains all the working mechanics of a Whack The Mole style game w
 * Set the UI based on the link abouve.
 * Set the right animations.
 * Create a better particle to the marmot hit.
+* Create a .exe with your test result.
 
 **About Unity version:** The current version of Spine (Animation tool) doesn't have suport to the Unity 2017, it is recommended to use the version 5.6.3f1 of Unity engine.
 
